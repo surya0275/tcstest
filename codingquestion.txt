@@ -65,3 +65,10 @@ Constraints
 1<=Arr[i]<=10000
 
 ans= not understand the logic
+
+
+Reverse a String-got the logic
+Reverse a Number-got the logic
+Prime Number-got the logic
+Greatest among 10 numbers-got the logic
+Fibonacci Series-got the logic
