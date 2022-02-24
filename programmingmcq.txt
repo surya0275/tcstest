@@ -96,3 +96,41 @@ int main()
 }
 
 ans-not understand the logic.
+
+9.
+#include
+int main(intargc, char **argv)
+{
+char **items;
+int j = 3, i;
+items =argv;
+for(i = 1; (i%4); i++)
+{
+int **p = &items[j];
+printf("%c", **p);
+j--;
+}
+return 0;
+}
+
+
+The above code is run with three command line parameters mentioned here:Paper Ink Pen
+
+What will be the output of the above program?
+ans-not understand the logic
+
+10. Improper formation of which of the following data-structures can cause un-intentional looping of a program that uses it.
+
+a) Linked list
+
+b) Array
+
+c) Queue
+
+d) Stack
+
+ans-not understand
+
+11. What is the data type that occupies the least storage in "C" language?
+
+ans=got the answere
